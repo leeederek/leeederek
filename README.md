@@ -3,6 +3,7 @@
 I'm a Technical Product Manager at [Kurtosis Technologies](https://www.kurtosis.com/) with a passion for the web3 space.
 
 #### Portfolio of projects:
+- [Solvify](https://ethglobal.com/showcase/solvify-jq62y): A solver implementation for an intent-centric future on Etheruem - all with a delightful web2-like UX and powerful AI agents from LangChain to optimally satisfy intents and retain value for users. [Github repository here](https://github.com/awesome-abstraction/solvify)
 - [WaaS Pay](https://ethglobal.com/showcase/waas-pay-br0qs): A no-code platform to build & issue smart contract accounts (ERC-4337) to web2 users using single-use URL links. [Github repository here](https://github.com/awesome-abstraction/waas-pay)
     - Our project was sponsored by Polygon Labs and won 2nd place for best use of Safe{Core}'s Account Abstraction SDK and a pool prize from zkBob at ETHGlobal Paris 2023 Hackathon
 - [A(i)udit](https://ethglobal.com/showcase/a-i-udit-ja32i): A LangChain-based CLI to help dApp developers incorporate powerful auditing tools earlier in their development lifecycle - effectively shifting-left security best practices. [Github repository here](https://github.com/leeederek/aiudit/)
