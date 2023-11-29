@@ -1,6 +1,6 @@
 ### Hello! I'm Derek
 
-gm, I'm a Technical Product Manager at [Kurtosis Technologies](https://www.kurtosis.com/) and just so happen to really like web3
+gm
 
 #### Portfolio of projects:
 - [Solvify](https://ethglobal.com/showcase/solvify-jq62y): A solver implementation for an intent-centric future on Etheruem - all with a delightful web2-like UX and powerful AI agents from LangChain to optimally satisfy intents and retain value for users. [Github repository here](https://github.com/awesome-abstraction/solvify)
