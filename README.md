@@ -1,6 +1,6 @@
 ### Hello! I'm Derek
 
-gm
+gm, I am a Product Manager at Offchain Labs, contributing to Arbitrum and Prysm to help scale Ethereum.
 
 #### Portfolio of projects:
 - [Solvify](https://ethglobal.com/showcase/solvify-jq62y): A solver implementation for an intent-centric future on Etheruem - all with a delightful web2-like UX and powerful AI agents from LangChain to optimally satisfy intents and retain value for users. [Github repository here](https://github.com/awesome-abstraction/solvify)
