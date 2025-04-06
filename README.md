@@ -3,6 +3,7 @@
 gm, I am a Product Manager at Offchain Labs, contributing to Arbitrum and Prysm to help scale Ethereum.
 
 #### Portfolio of projects:
+- [1Inch (wonder)World](https://ethglobal.com/showcase/1inch-wonder-world-sswpp): A Worldcoin mini-app that connects WorldID verified humans to the DeFi ecosystem through 1Inch's Fusion+ API for in-app atomic, cross-chain, and MEV-resistant swaps. [Github repository here](https://github.com/leeederek/1inch-wonder-world)
 - [Solvify](https://ethglobal.com/showcase/solvify-jq62y): A solver implementation for an intent-centric future on Etheruem - all with a delightful web2-like UX and powerful AI agents from LangChain to optimally satisfy intents and retain value for users. [Github repository here](https://github.com/awesome-abstraction/solvify)
     - Won 1st place for best use of 1Inch's API, 2nd place for Best App built using Unlimit, and Integration Wizard award from Privy.io! 
 - [WaaS Pay](https://ethglobal.com/showcase/waas-pay-br0qs): A no-code platform to build & issue smart contract accounts (ERC-4337) to web2 users using single-use URL links. [Github repository here](https://github.com/awesome-abstraction/waas-pay)
